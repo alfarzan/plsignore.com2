@@ -5,7 +5,7 @@ title:  "Rani Moran: Algorithm designer to experimental psychologist"
 categories: [ informational interview ]
 image: assets/images/ranimoran.jpg
 <!-- rating: 3 -->
-featured: true
+featured: false
 comments: false
 ---
 
