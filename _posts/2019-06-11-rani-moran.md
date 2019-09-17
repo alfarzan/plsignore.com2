@@ -10,25 +10,23 @@ comments: false
 ---
 
 
-I first met Rani when he came to Imperial to give a [talk](https://www.eventbrite.co.uk/e/retrospective-model-based-inference-guides-model-free-credit-assignment-tickets-61031098659#) that from the abstract, seemed to suggest it was about [reinforcement learning](https://en.wikipedia.org/wiki/Reinforcement_learning) (an area of machine learning). Like any physicist trying to pretend they belong in a computer science department, I tend to go to every lecture I feel I might have a chance at following. 
+I first met Rani when he came to Imperial to give a [talk](https://www.eventbrite.co.uk/e/retrospective-model-based-inference-guides-model-free-credit-assignment-tickets-61031098659#) that from the abstract, seemed to suggest it was about [reinforcement learning](https://en.wikipedia.org/wiki/Reinforcement_learning) (an area of machine learning). Like any physicist trying to pretend they belong in a computer science department, I tend to go to every lecture I feel I might have a chance at understanding. 
 
-I was pleasantly surprised when I realised, 10 minutes into the talk, that Rani will is actually talking about how ideas from RL can be applied to experimental psychology, trying to understand how humans actually make decisions. 
+I was pleasantly surprised when I realised, 10 minutes into the talk, that Rani is actually talking about how ideas from RL can be applied to experimental psychology, trying to understand how humans actually think and make decisions. 
 
-I won't discuss his research here, he does a much better job of that [elsewhere](https://socialsciences.nature.com/users/207837-rani-moran/posts/44037-model-based-inference-guides-model-free-credit-assignment). Rani was kind enough, after his talk, to agree to meet with me and discuss how he ended up in his job and in his field, after starting out from a pure mathematics degree. 
+I won't further discuss his research here, he does a much better job of that [elsewhere](https://socialsciences.nature.com/users/207837-rani-moran/posts/44037-model-based-inference-guides-model-free-credit-assignment). Rani was kind enough, after his talk, to agree to meet with me and discuss how he ended up in his job and in his field, after starting out from a pure mathematics degree. 
 
 ## Our interview
 
-We met again a week after his talk, at Rani's office at UCL. Initially the idea was to go to a coffee shop and sit down, but the afternoon London crowd convinced us that a patch of grass outside would play a friendlier host. 
+We met a week after his talk, at Rani's office at UCL. Initially the idea was to go to a coffee shop and sit down, but the afternoon London crowd convinced us that a patch of grass outside would play a friendlier host. 
 
 _(**Note**: What is written below is extracted from a transcript of my interview notes. It does not contain quotes verbatim.)_
 
 ### Summary
 
-Like most researchers that I have met during my time at CERN, Cambridge, and Imperial, my impression of Rani is that of overriding friendly curiosity combined with an impatience that forces you to get straight to the point. 
+Like most researchers that I have met during my stints at CERN, Cambridge, and Imperial, my impression of Rani is that of overriding friendly curiosity combined with an impatience that forces you to get straight to the point. 
 
-In our 40 minutes together, I found that Rani went from teaching mathematics, to learning how to code, to designing algorithms in the financial sector. 
-
-Throughout this time his "hobby" was to study psychology lectures, a hobby that eventually turned into a PhD, and finally now, a career. When asked why he finally made the jump, his answer highlights what a lot of people, including me feel --- something to be really passionate about. Clichés are clichés for a reason. 
+In our 40 minutes together, I found that Rani went from teaching mathematics, to learning how to code, to designing algorithms in the financial sector. Throughout this time his "hobby" was to listen to psychology lectures, a hobby that eventually turned into a PhD, and finally now, a career. When asked why he finally made the jump, his answer highlights what a lot of people, including me feel --- he wanted something to be really passionate about. A cliché maybe. But clichés are clichés for a reason. 
 
 When I asked him if he would ever go back to industry he said only if he "fails in his current trajectory". 
 
@@ -41,7 +39,7 @@ Below is the full transcript of our interview.
 
 **RANI**: I am currently a post-doc and I have been for the past 2 years right after I finished my PhD at Tel-Aviv University. 
 
-**ALI**: So you started out studying pure maths as an undergrad, then you went into algorithm design? How did that happen?
+**ALI**: Ok let's go back to when it began. You started out studying pure maths as an undergrad, then you went into algorithm design? How did that happen?
 
 **RANI**: Actually I didn’t do that immediately after my degree. I first taught for a few years. I taught maths. _**It was during my time teaching that I got interested in algorithms and coding**_. Actually coming from a pure maths background it was not an easy transition you know. We were studying things like “set theory” and then I was there trying to code a new thing here and there. Not very easy. 
 
