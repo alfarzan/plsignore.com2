@@ -6,7 +6,7 @@ categories: [ informational interview ]
 image: assets/images/ranimoran.jpg
 <!-- rating: 3 -->
 featured: true
-comments: true
+comments: false
 ---
 
 
