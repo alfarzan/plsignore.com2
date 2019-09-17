@@ -1,9 +1,9 @@
 # Site
 name: "plsignore"
 title: "plsignore"
-description: "Figuring out, life, careers, and informal conversations"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+description: "opinions and informal conversations"
+logo: 'assets/images/favicon.ico'
+favicon: 'assets/images/favicon.ico'
 baseurl: ''
 # google_analytics: 'UA-46278016-1'
 # disqus: 'demowebsite'
