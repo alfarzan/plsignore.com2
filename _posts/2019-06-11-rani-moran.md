@@ -47,7 +47,7 @@ Below is the full transcript of our interview.
 
 **RANI**: I worked mostly for small companies, and when you work for small companies, you do more. So I did more than algorithm design. Basically what I would do is, a company would have a vague problem they wanted to solve, for example in solar panel optimisation or something in high frequency trading, then I would sit down and try to think of a good algorithm to solve it. Once I had that, I would then sit down with the development team and try to teach them how to do it. Sometimes I would do the coding myself. It was very entertaining and engaging work. I liked it quite a bit. 
 
-**ALI**: If you liked it then why swap it so psychology? It seems like quite a leap. 
+**ALI**: If you liked it then why swap it psychology? It seems like quite a leap. 
 
 **RANI**: So it was not such a decisive progression in reality. I had always been interested in psychology. **_During my time in industry I would occasionally take various different Open university courses in psychology_**. Once class here, another there. Then after a few years they called me and said something like “Hey if you take a few more courses then you can get a degree”. So I did. And then I had my degree. This was all while I was working.
 
