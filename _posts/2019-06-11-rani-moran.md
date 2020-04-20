@@ -7,6 +7,7 @@ image: assets/images/ranimoran.jpg
 <!-- rating: 3 -->
 featured: false
 comments: false
+published: true
 ---
 
 

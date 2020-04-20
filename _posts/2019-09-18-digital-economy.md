@@ -6,6 +6,7 @@ image: assets/images/ukporn.jpg
 featured: false
 comments: false
 hidden: false
+published: true
 ---
 
 Making sure the children in our society do not regularly stumble upon damaging material while browsing the internet, is something we can all get behind. Our UK government agrees. Back in 2016, a study commissioned by the National Society for the Prevention of Cruelty to Children (NSPCC)<sup><sup>[shorter initialism pending]</sup></sup> and the Office of the Children's Commissioner (OCC) [surveyed](https://learning.nspcc.org.uk/research-resources/2016/i-wasn-t-sure-it-was-normal-to-watch-it/ 
