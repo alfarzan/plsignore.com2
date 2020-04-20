@@ -19,6 +19,11 @@ comments: false
 	- **Date**: 2018.June.28
 	- **Slides**: Available upon request
 
+3. **Title**: _Conversations about COIVD_
+    - **Where**: Online
+    - **When**: 2020.April.20
+    - **Video**: [public link](https://www.linkedin.com/posts/deborahwebsterdw_data-tech-covid19-activity-6657611773539074048-YrIz/)
+
 ### Publications
 
 1. de Montjoye Y.A, , Farzanehfar, A., Hendrickx, J. and Rocher, L., 2017. Solving artificial intelligence’s privacy problem. Field Actions Science Reports. The journal of field actions, (Special Issue 17), pp.80-83. [Available online](https://journals.openedition.org/factsreports/4494).
