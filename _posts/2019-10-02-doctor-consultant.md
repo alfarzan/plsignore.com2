@@ -36,6 +36,7 @@ Below is the full transcript of our interview.
 **ALI**: So let’s start with the basics, what is your position today?
 
 **JOHN**: I’ve been a consultant, since around July. 
+
 **ALI**: Ok, so I guess the first real question is, why medicine to start with?
 
 **JOHN**: That’s a good question. I think, job availability played a huge role. Growing up in the midlands, you come face to face with a lot of doctors, teachers, less so lawyers etc. And if you do they are usually solicitors. And there were lots of bankers. But a “banker” would be someone who works at a bank branch, rather than an investment firm. 

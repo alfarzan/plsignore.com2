@@ -24,4 +24,7 @@ Article about how Facebook is trying to be the government and the government doe
 
 # Less formed ideas
 1. Something on competition and privacy
-2. Article on aging, both technologically and societally 
+2. Article on aging, both technologically and societally
+3. Amazon anti-trust for the layman
+
+
